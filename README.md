@@ -1,5 +1,6 @@
-# comp2106-lesson8
+# comp2106-lesson9
+Enabling Passport Local and GitHub for Authentication - Updated After Lesson 10
 
-Adding Delete functionality
+In articles/isLoggedIn() function, return next; replaced with return next(); . All articles pages are now secured.
 
-Setting up Passport for Authentication
+Welcome page has been added, as has Logout functionality.  Logged in users no longer see the Login form but are redirected to the welcome page instead.
